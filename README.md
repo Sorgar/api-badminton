@@ -1,9 +1,13 @@
 • Accéder au dossier du projet :
+---bash
 cd api-badminton
+---
 
 • Installer les dépendances et lancer le serveur:
+---bash
 npm install
 npm run start
+---
 
 • Commandes dans le terminal pour intéragir avec le serveur :
 - Réserver un terrain :
