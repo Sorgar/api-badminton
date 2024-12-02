@@ -31,7 +31,7 @@ url d'entrée : localhost:3000
 
 
 ##Commandes 
-• Commandes dans le terminal pour intéragir avec le serveur :
+
 Ajouter un créneau :
 curl -X POST http://localhost:3000/terrains/A/reservations -H "Content-Type: application/json" -d "{"pseudo": "user1", "date": "2024-12-02T10:45:00"}"
 
